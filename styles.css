@@ -1,0 +1,50 @@
+body {
+    color: black;
+    background-color: red;
+    font: 200;
+    font-family: sans-serif;
+    margin: 20px;
+}
+h1 {
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+
+}
+section {
+    color: brown;
+    
+
+
+
+button{
+    background-color: whitesmoke;
+    color: white; 
+}
+/* Page background and fonts */
+body {
+    background-color: whitesmoke;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+h2, h3 {
+    color: darkgreen;
+    font-family: Georgia, serif;
+
+ }.card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px gray;
+    width: 250px;
+    margin: 20px;
+}
+
+.card h2 {
+    color: black;
+}
+
+.card p {
+    color: green;
+    font-size: 18px;
+}
